@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Direction/Problems-Direction.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Direction/Problems-Direction.iml" group="Simple_Chatty_Bot/Problems-Direction" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Direction/Problems-Direction_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Direction/Problems-Direction_main.iml" group="Simple_Chatty_Bot/Problems-Direction" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Direction/Problems-Direction_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Direction/Problems-Direction_test.iml" group="Simple_Chatty_Bot/Problems-Direction" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Problems-Floor-space_of_the_room.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Problems-Floor-space_of_the_room.iml" group="Simple_Chatty_Bot/Problems-Floor-space_of_the_room" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Problems-Floor-space_of_the_room_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Problems-Floor-space_of_the_room_main.iml" group="Simple_Chatty_Bot/Problems-Floor-space_of_the_room" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Problems-Floor-space_of_the_room_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Problems-Floor-space_of_the_room_test.iml" group="Simple_Chatty_Bot/Problems-Floor-space_of_the_room" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Harry Potter/Problems-Harry_Potter.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Harry Potter/Problems-Harry_Potter.iml" group="Simple_Chatty_Bot/Problems-Harry_Potter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Harry Potter/Problems-Harry_Potter_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Harry Potter/Problems-Harry_Potter_main.iml" group="Simple_Chatty_Bot/Problems-Harry_Potter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Harry Potter/Problems-Harry_Potter_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Harry Potter/Problems-Harry_Potter_test.iml" group="Simple_Chatty_Bot/Problems-Harry_Potter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple_Chatty_Bot.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple_Chatty_Bot.iml" group="Simple_Chatty_Bot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot-task.iml" group="Simple_Chatty_Bot/Simple_Chatty_Bot-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot-task_main.iml" group="Simple_Chatty_Bot/Simple_Chatty_Bot-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot-task_test.iml" group="Simple_Chatty_Bot/Simple_Chatty_Bot-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Simple_Chatty_Bot/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Simple_Chatty_Bot/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Simple_Chatty_Bot/util" />
+    </modules>
+  </component>
+</project>
